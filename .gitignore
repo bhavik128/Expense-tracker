@@ -66,5 +66,5 @@ node_modules/
 .env
 
 .idea/
-.firebase.json
+firebase.json
 build/
