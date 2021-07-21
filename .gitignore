@@ -68,5 +68,3 @@ node_modules/
 .idea/
 
 build/
-
-firebase.json
